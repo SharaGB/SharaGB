@@ -10,7 +10,7 @@ SharaGB/SharaGB is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaGB)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharaGB&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaGB&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharaGB&show_icons=true&theme=tokyonight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharaGB&label=Profile%20views&color=0e75b6&style=flat%22" alt="sharagb" /> </p>
