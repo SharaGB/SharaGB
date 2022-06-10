@@ -21,14 +21,12 @@
 <a href="https://www.javascript.com" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<br>
 
 <h3> Connect with me 💬 </h3>
 <a href="mailto:shara.garcia.betancur@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="42px" align = 'center'></a>
 <a href = 'https://www.linkedin.com/in/sharagb/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/_Rassvet_x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://github.com/SharaGB?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-</br>
 <br>
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=SharaGB&label=Profile%20views&color=a95dd9&style=flat%22" alt="sharagb" /> </p>
+<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=SharaGB&label=Profile%20views&color=a95dd9&style=flat%22" alt="sharagb" /> </p></br>
 </br>
