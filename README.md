@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Shara
 
-<img align="right" height="270px" alt="GIF" src="https://1.bp.blogspot.com/-HBMgkJNlQ3w/YGdlv8VQF0I/AAAAAAAEQ0U/jvW-tAIoJFE6d1R2Qjzk32BTKRJAv_EPQCLcBGAsYHQ/s600/giphy.gif" />
-
 ### I am a Software Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on programming projects
@@ -9,9 +7,7 @@
 - ⚡ Fun fact: I'm a cheerleader
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaGB&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SharaGB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
-
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
