@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaGB&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SharaGB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3> Skills </h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href= https://github.com/SharaGB?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
@@ -21,8 +21,7 @@
 <a href= https://github.com/SharaGB?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Connect with me <img src='https://static.showit.co/file/GauJdDCbQJWt-qBhijyxgA/112804/textmessage_gif.gif' width="40px"> </h3>
-
+<h3> Connect with me 💬 </h3>
 <a href="mailto:shara.garcia.betancur@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="42px" align = 'center'></a>
 <a href = 'https://www.linkedin.com/in/sharagb/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/_Rassvet_x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
