@@ -27,6 +27,7 @@
 <a href = 'https://www.linkedin.com/in/sharagb/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/_Rassvet_x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://github.com/SharaGB?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<br>
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=SharaGB&label=Profile%20views&color=a95dd9&style=flat%22" alt="sharagb" /> </p></br>
-</br>
+
+
+
+<br><pre><p align="center"> <img src="https://komarev.com/ghpvc/?username=SharaGB&label=Profile%20views&color=a95dd9&style=flat%22" alt="sharagb" /> </p></pre></br>
