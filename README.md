@@ -24,7 +24,7 @@
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="40" height="40"/> </a> </p>
 </p>
 
-<h3> Connect with e 🤝🏻 </h3>
+<h3> Connect with me 🤝🏻 </h3>
 
 <p align="center">
 &nbsp; <a href="https://github.com/SharaGB?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/344/github.png" width="50" /></a>
