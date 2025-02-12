@@ -1,10 +1,9 @@
 # Hi there! I'm Shara. <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" width="25">
 
 ### I am a Software Developer
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on programming projects
-- ‍💻 I am currently working on finishing my studies at Holberton
-- ⚡ Fun fact: I'm a cheerleader
+-  ‍‍💻 I am currently studying Systems Engineering.
+- 🤖 I work as a developer at Tabot.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaGB&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SharaGB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
